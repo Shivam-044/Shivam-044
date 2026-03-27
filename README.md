@@ -43,6 +43,7 @@ Generates secure random passwords using Python libraries.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-044\&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-044&layout=compact)
 ---
 
 ## 📫 Contact
