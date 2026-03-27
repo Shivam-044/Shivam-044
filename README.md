@@ -1,7 +1,7 @@
 # Hi, I'm Shivam 👋
 
 🎓 B.Tech CSE Student
-💻 Passionate about Python, Problem Solving, and Backend Developmen
+💻 Passionate about Python, Problem Solving, and Backend Development
 🚀 Building projects to strengthen core programming skills
 
 ---
@@ -26,6 +26,7 @@ Generates secure random passwords using Python libraries.
 
 * Python
 * C
+* SQL
 * Bash
 * Git & GitHub
 
