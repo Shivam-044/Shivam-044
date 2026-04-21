@@ -20,6 +20,10 @@ File handling based system to store and retrieve student data.
 
 Generates secure random passwords using Python libraries.
 
+### 🔹 Mini-Siem
+
+A Python-based security tool that monitors log files in real-time and detects suspicious activities such as repeated failed login attempts.
+
 ---
 
 ## 🛠️ Tech Stack
