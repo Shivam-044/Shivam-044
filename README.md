@@ -45,7 +45,7 @@ I am a **Software Engineering student** focused on building robust backend syste
 
 ### 📫 Connect with me
 - 📧 **Email:** [shivamkumar440991@gmail.com](mailto:shivamkumar440991@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn URL Here]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/shivam-kumar-cgc)]
 - 🌐 **GitHub:** [Shivam-044](https://github.com/Shivam-044)
 
 ---
