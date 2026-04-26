@@ -2,6 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-blue?style=flat-square" alt="B.Tech CSE">
+  
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Security-red?style=flat-square" alt="Focus">
 </p>
 
@@ -45,7 +46,7 @@ I am a **Software Engineering student** focused on building robust backend syste
 
 ### 📫 Connect with me
 - 📧 **Email:** [shivamkumar440991@gmail.com](mailto:shivamkumar440991@gmail.com)
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/shivam-kumar-cgc)]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shivam-kumar-cgc
 - 🌐 **GitHub:** [Shivam-044](https://github.com/Shivam-044)
 
 ---
