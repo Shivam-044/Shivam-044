@@ -1,59 +1,91 @@
-# Hi, I'm Shivam 👋 
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech CSE">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Security-D12424?style=for-the-badge&logo=shieldsource&logoColor=white" alt="Focus">
-</p>
+<!-- Minimalist Dynamic Typing Header -->
+<a href="https://github.com/Shivam-044">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Shivam+Kumar+%7C+Backend+%26+Security+Engineering;Building+Decoupled+Systems+%26+Threat+Detection;B.Tech+Computer+Science+%E2%80%A2+Systems+%26+DSA" alt="Typing SVG" />
+</a>
 
-> **Software Engineering Student** specialized in building robust backend systems, modular architectures, and security-focused monitoring tools.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Architecture** | `Modular Programming` • `Package Architecture` • `Real-time File I/O` • `State Management` |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
----
-
-### 🛡️ Featured Security Projects
-*Building tools to monitor, detect, and secure.*
-
-*   **[Mini-SIEM](https://github.com/Shivam-044/mini-siem)**  
-    *Real-time log analysis engine with GeoIP tracking and a threat detection dashboard.*
-*   **[Wordlist Generator](https://github.com/Shivam-044/password-wordlist-generator)**  
-    *Custom tool for granular control over character sets and security audit formats.*
-*   **[Secure Password Gen](https://github.com/Shivam-044/Password-Generator)**  
-    *Cryptographically secure random utility.*
-
-### 🏗️ Systems & Logic
-*Focusing on decoupled design and clean code.*
-
-*   **[ATM Simulation](https://github.com/Shivam-044/ATM_Simulation)**  
-    *Professional-grade engine implementing decoupled package architecture.*
-*   **[Student Record System](https://github.com/Shivam-044/student-record-system)**  
-    *Persistent data management with optimized file-handling.*
-*   **[Simple Game Hub](https://github.com/Shivam-044/SimpleGame)**  
-    *Modular terminal suite demonstrating separation of concerns.*
-
----
-
-### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shivam-044&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shivam-044&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="43%" />
+  <a href="mailto:shivamkumar440991@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/shivam-kumar-cgc"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://github.com/Shivam-044"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
 </p>
+
+</div>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-<a href="mailto:shivamkumar440991@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shivam-kumar-cgc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Shivam-044"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### `01 // OVERVIEW`
 
-<p align="center"><i>"Building secure and scalable solutions, one commit at a time."</i></p>
+Computer Science undergraduate focused on **backend systems architecture**, **network & IoT security**, and **algorithmic problem-solving**. I design modular, state-managed applications and real-time threat monitoring tools with an emphasis on clean separation of concerns and predictable performance.
+
+- **Current Focus:** AI-assisted intrusion detection for IoT edge networks, log telemetry pipelines, and Data Structures & Algorithms (`Python`, `Java`, `C++`).
+- **Core Interests:** Distributed Systems • Defensive Security (SIEM/IDS) • Low-Level Systems & Linux Administration.
+
+---
+
+### `02 // SELECTED ENGINEERING WORK`
+
+<table>
+  <thead>
+    <tr>
+      <th width="28%">Project</th>
+      <th width="52%">Architecture & Impact</th>
+      <th width="20%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Shivam-044/GridSentinel-Edge"><b>GridSentinel-Edge</b></a><br/>
+        <sub><code>IoT Security • AI/ML</code></sub>
+      </td>
+      <td>AI-assisted cyberattack detection engine designed to identify anomalies and intrusion patterns across smart-grid IoT testbeds.</td>
+      <td><code>Python</code> <code>ML</code> <code>IoT</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Shivam-044/mini-siem"><b>Mini-SIEM</b></a><br/>
+        <sub><code>Threat Telemetry • Web</code></sub>
+      </td>
+      <td>Real-time log ingestion and correlation engine featuring automated suspicious activity detection, GeoIP tracking, and an alert dashboard.</td>
+      <td><code>Python</code> <code>GeoIP</code> <code>Web</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Shivam-044/ATM_Simulation"><b>ATM Simulation Engine</b></a><br/>
+        <sub><code>Systems Architecture</code></sub>
+      </td>
+      <td>Transaction processing engine built with strict package decoupling, state-managed workflows, and modular error boundaries.</td>
+      <td><code>Python</code> <code>OOP</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Shivam-044/Career-Development-Opportunity-Management-System"><b>Career Opportunity Tracker</b></a><br/>
+        <sub><code>Desktop Application</code></sub>
+      </td>
+      <td>Desktop management system for tracking technical skill progression, internship pipelines, and interview workflows.</td>
+      <td><code>Java</code> <code>Desktop</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Shivam-044/LeetCode-DSA"><b>LeetCode & DSA Archive</b></a><br/>
+        <sub><code>Algorithms • Complexity</code></sub>
+      </td>
+      <td>Structured repository of algorithmic solutions documenting optimal approaches alongside strict time and space complexity proofs.</td>
+      <td><code>Python</code> <code>Java</code> <code>C++</code></td>
+    </tr>
+  </tbody>
+</table>
+
+> **Additional Security & Systems Utilities:** [`password-wordlist-generator`](https://github.com/Shivam-044/password-wordlist-generator) (custom audit dictionary builder) • [`library_management`](https://github.com/Shivam-044/library_management) (package-based state & dynamic penalty engine)
+
+---
+
+### `03 // TECHNICAL STACK`
+
+```yaml
+Languages:      Python, Java, C++, C, SQL, Bash
+Security & Ops: Log Analysis (SIEM), Linux Environment, Network Telemetry, Audit Tooling
+Architecture:   Modular Package Design, OOP, State Management, File I/O Persistence
+Developer Kit:  Git, GitHub Actions, Linux CLI, VS Code
